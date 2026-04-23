@@ -2,6 +2,8 @@
 
 A high-end, premium scroll animation project featuring sticky card effects, 3D rotations, and smooth scrolling. Built with modern web technologies and optimized for performance using Vite.
 
+<img width="1920" height="1080" alt="Screenshot 2026-04-23 162024" src="https://github.com/user-attachments/assets/9ec2687d-8d21-4d26-8934-30b3bf076cca" />
+
 ## ✨ Features
 
 - **Smooth Scrolling**: Integrated with [Lenis](https://github.com/darkroomengineering/lenis) for a buttery-smooth scrolling experience.
@@ -31,7 +33,7 @@ A high-end, premium scroll animation project featuring sticky card effects, 3D r
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Thakuma07/MaximaTherapy-ScrollAnimation.git
    ```
 2. Navigate to the project directory:
    ```bash
